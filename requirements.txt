@@ -9,7 +9,7 @@ googlemaps==2.4.4
 gpsoauth==0.3.0
 greenlet==0.4.10
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==3.1.5
 jsonpickle==0.9.3
 MarkupSafe==0.23
 mock==2.0.0
